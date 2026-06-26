@@ -11,8 +11,10 @@ This is only tested on the Capcut provided, it is reccomended to use that
 
 # Steps to use:
 1. Install Bottles
+   '''Bash
    flatpak install flathub bottles
-2. Import config
+   '''
+3. Import config
 	First, you need to open Bottles.
 	Then, Click on the three line button 
 	![Place to press](https://i.postimg.cc/Sxy7xzNq/Screenshot-20260626-153047.png)
