@@ -11,9 +11,9 @@ This is only tested on the Capcut provided, it is reccomended to use that
 
 # Steps to use:
 1. Install Bottles
-   '''Bash
-   flatpak install flathub bottles
-   '''
+   ```bash
+	flatpak install flathub bottles
+	```
 3. Import config
 	First, you need to open Bottles.
 	Then, Click on the three line button 
