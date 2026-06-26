@@ -7,7 +7,7 @@ Ah, finally after so many days of troubleshooting Capcut in Wine, it's finally w
 * KDE Plasma
 * A Distro that supports Flatpaks (bottles)
 
-This is only tested on the Capcut provided, it is reccomended to use that
+This is only tested on the flatpak version of Bottles using the Capcut provided, it is reccomended to use those
 
 # Steps to use:
 1. Install Bottles
