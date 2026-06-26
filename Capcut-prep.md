@@ -10,4 +10,5 @@
 	* Brilliance = 0
 
 For them to look similar to the exported video (reset them before export)
+
 3. You are done!
