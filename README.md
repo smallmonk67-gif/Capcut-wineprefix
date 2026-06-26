@@ -1,7 +1,7 @@
 # Capcut-prefix
 Ah, finally after so many days of troubleshooting Capcut in Wine, it's finally working as intended* (*there as some issues i can't slove like making the scaling box transparent also makes everything else transparent)
 
-## Disclaimer: Contains Epilepsy do't use if you are affected
+## Disclaimer: Contains Epilepsy don't use if you are affected
 
 # Requirements:
 * KDE Plasma
